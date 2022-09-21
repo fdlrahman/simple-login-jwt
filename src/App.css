@@ -1,0 +1,19 @@
+body {
+  background-color: #E4E8F3;
+}
+
+.col-lg-6 {
+  background-color: white;
+  border-top: 7px solid #0971D9;
+  border-radius: 5px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.col-lg-6 h1 {
+  font-size: 30px;
+}
+
+.alert {
+  font-size: 13px !important;
+}

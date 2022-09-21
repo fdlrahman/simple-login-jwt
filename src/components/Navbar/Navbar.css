@@ -1,0 +1,28 @@
+.navbar-nav {
+    flex-direction: row;
+}
+
+.navbar-nav button {
+    margin-left: 5px;
+    background-color: #0971D9;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+
+.navbar-nav .btn-secondary {
+    background-color: lightgray;
+    border: 1px solid lightgray;
+    color: #333;
+}
+
+.navbar-nav .circle-account {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    margin-left: 10px;
+    background-color: grey;
+    background-image: url('../../../public/user.jpeg');
+    background-size: cover;
+    background-position: center center;
+    cursor: pointer;
+}
